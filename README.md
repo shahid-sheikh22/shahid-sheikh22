@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 ## 💫 About Me:
 Hi there 👋, I'm Shahid Sheikh!<br>🎓 CSE Student at RCOEM <br>💻 Skills: Java | Python | C | ReactJS | SQL | Figma<br>📚 Passionate about coding, machine learning projects, and competitive programming.<br><br>Projects 🚀<br>Noteasion: A platform for seamless resource sharing.<br>Travel Website: Designed and developed a user-friendly travel platform.<br>Tools & Tech 🔧<br>Machine Learning: Building predictive models and solving real-world problems.<br>Competitive Coding: Proficient in Java, Python, and C for problem-solving.<br>Frontend & UI: ReactJS and Figma for crafting intuitive user interfaces.<br>Databases: Skilled in SQL for efficient data management.<br>Achievements & Interests 🏅<br>95% MHT-CET Percentile | Olympiad Winner at school & district levels.<br>📈 Trading enthusiast | ⚽ Football & 🏏 Cricket lover | <br>🌟 Always learning, always improving.<br><br>Let’s connect and build something amazing!
 
